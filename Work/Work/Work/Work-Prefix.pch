@@ -1,0 +1,17 @@
+//
+//  Work-Prefix.pch
+//  Work
+//
+//  Created by hanxt on 16/10/10.
+//  Copyright © 2016年 hanxt. All rights reserved.
+//
+
+#ifndef Work_Prefix_h
+#define Work_Prefix_h
+
+#define XTRandomColor [UIColor colorWithRed:(CGFloat)arc4random()/UINT32_MAX \
+green:(CGFloat)arc4random()/UINT32_MAX \
+blue:(CGFloat)arc4random()/UINT32_MAX \
+alpha:1.0];
+
+#endif /* Work_Prefix_h */

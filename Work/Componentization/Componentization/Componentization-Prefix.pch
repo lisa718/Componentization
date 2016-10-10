@@ -1,0 +1,26 @@
+//
+//  Componentization-Prefix.pch
+//  Componentization
+//
+//  Created by hanxt on 16/10/9.
+//  Copyright © 2016年 hanxt. All rights reserved.
+//
+
+#ifndef Componentization_Prefix_h
+#define Componentization_Prefix_h
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+
+#define XTRandomColor [UIColor colorWithRed:(CGFloat)arc4random()/UINT32_MAX \
+green:(CGFloat)arc4random()/UINT32_MAX \
+blue:(CGFloat)arc4random()/UINT32_MAX \
+alpha:1.0];
+
+#endif
+
+#endif /* Componentization_Prefix_h */
+
