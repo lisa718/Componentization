@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					8975063B1DAA4DC800FFF08A = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = R48Q5YKW7M;
 					};
 				};
 			};
@@ -304,6 +305,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = R48Q5YKW7M;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PREFIX_HEADER = "Componentization/Componentization-Prefix.pch";
 				INFOPLIST_FILE = Componentization/Info.plist;
@@ -318,6 +320,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = R48Q5YKW7M;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PREFIX_HEADER = "Componentization/Componentization-Prefix.pch";
 				INFOPLIST_FILE = Componentization/Info.plist;
